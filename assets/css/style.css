@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.navbar{
+    background-color: #28a745;
+}
+
+.container-fluid img {
+    width: 5rem;
+}
+
+.card-title{
+    font-weight: 300;
+    color: #212529;
+}
+
+.card-text{
+    font-weight: 300;
+    color: #707070;
+    font-size: 1rem;
+}
+
+.text-2{
+    font-weight: 300;
+    color: #707070;
+}
+
+ 
+fieldset{
+    background-color: #28a745;
+}
+
+.subtitle{
+    color: #fff;
+    font-weight: 500;
+}
+
+
